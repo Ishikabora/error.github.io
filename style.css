@@ -1,0 +1,45 @@
+body
+ {
+    text-align: center;
+    color: white;
+    background: cover;
+    font-size: 27px;
+    background-repeat: no-repeat;
+}
+
+a
+{
+  background-color: rgb(85, 176, 87);
+  color: black;
+  font-family: cursive;
+  font-size: 27px;
+  width: 100px;
+  height: 70x;
+  border-radius: 5px;
+}
+
+a:hover
+{
+    color:#1882c1;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 34px;
+}
+
+.a
+{
+    width: 400px;
+    height: 50px;
+    font-size: 27px;
+}
+
+.b
+{
+    width: 450px;
+    height: 40px;
+    font-size: 15px;
+}
+
